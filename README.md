@@ -14,15 +14,15 @@
 
 ---
 
-## 🧩 Featured Projects
+| 💡 Project                                                                                                                                                       | 🧠 Description                                                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**End-to-End Credit Default Prediction (Python + Streamlit)**](https://github.com/SaharBahloul/End-to-End-Credit-Default-Prediction-with-Data-Analytics-and-ML) | Full credit-risk system using the Kaggle Home Credit dataset: EDA, preprocessing, SMOTE, Random Forest, XGBoost, LightGBM, CatBoost, threshold tuning, and a deployed Streamlit scoring app. |
+| [**CarthageCraft (React + MySQL)**](https://github.com/SaharBahloul/carthagecraftissproject)                                                                     | Responsive e-commerce connecting Tunisian artisans to customers. Secure authentication & MySQL backend.                                                                                      |
+| [**StageVermeg (Spring Boot + Angular)**](https://github.com/SaharBahloul/stagevermeg)                                                                           | Regulatory validation (EAR vs Manifest). REST APIs, automated tests, CI/CD → improved data consistency by ~**20%**.                                                                          |
+| [**VermegVf**](https://github.com/SaharBahloul/VermegVf)                                                                                                         | Modular Spring services + Angular UI; automated build & deployment pipelines.                                                                                                                |
+| [**FinalVersionStageBiat (Python ML)**](https://github.com/SaharBahloul/FinalVersionStageBiat)                                                                   | Unsupervised ML (K-Means, DBSCAN, GMM) on 100K+ clients with PCA/UMAP and automated preprocessing pipelines.                                                                                 |
+| [**Graph-Project-F1 (C++)**](https://github.com/SaharBahloul/graph-project-F1)                                                                                   | Custom graph toolkit with BFS reachability, degree metrics, and adjacency structures.                                                                                                        |
 
-| 💡 Project | 🧠 Description |
-|---|---|
-| [**CarthageCraft (React + MySQL)**](https://github.com/SaharBahloul/carthagecraftissproject) | Responsive e-commerce connecting Tunisian artisans to customers. Secure auth & MySQL backend. |
-| [**StageVermeg (Spring Boot + Angular)**](https://github.com/SaharBahloul/stagevermeg) | Regulatory validation (EAR vs Manifest). REST APIs, tests, CI/CD → ~**+20%** data consistency. |
-| [**VermegVf**](https://github.com/SaharBahloul/VermegVf) | Refined modular services and Angular UI; automated builds and deployment. |
-| [**FinalVersionStageBiat (Python ML)**](https://github.com/SaharBahloul/FinalVersionStageBiat) | **Unsupervised ML** (K-Means, DBSCAN, GMM) on 100K+ clients; **PCA/UMAP**; automated preprocessing. |
-| [**Graph-Project-F1 (C++)**](https://github.com/SaharBahloul/graph-project-F1) | Graph toolkit: edge-list loader, **BFS reachability**, degree metrics, adjacency printing. |
 
 ---
 
