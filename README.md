@@ -27,10 +27,7 @@
 ---
 
 ## 🔬 Currently Working On
-- **Credit Default Prediction (2025)** — E2E data mining on **300K+** credit apps; **EDA, feature engineering, Logistic Regression, Random Forest, LightGBM**.  
-  *Focus:* Predictive analytics, classification, model evaluation.
-
-- **Fashion Product Generation (2025)** — **Text-to-image** generative AI for fashion; **Stable Diffusion**, **LoRA fine-tuning**, transformer-based multimodal learning.
+Multimodal Transformer-GAN for ECG Sequence Modeling (2025) — A healthcare AI project focusing on MIT-BIH ECG signals. Includes preprocessing, Transformer-based arrhythmia detection, a GAN for synthetic rare-beat generation, multimodal fusion (signal + annotation text), and a Streamlit/Gradio demo for real-time inference.``
 
 ---
 
