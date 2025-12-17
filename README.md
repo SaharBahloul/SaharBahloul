@@ -16,6 +16,9 @@
 
 | 💡 Project                                                                                                                                                       | 🧠 Description                                                                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+| [**Arrhythmia Heartbeat Detection (Transformers + Streamlit)**](https://github.com/SaharBahloul/Arrhythmia-Heartbeat-Detection) | End-to-end ECG arrhythmia analysis system: signal preprocessing, beat segmentation, Transformer-based classification, abnormal segment highlighting, and interpretable rhythm-level insights with a deployed Streamlit interface. |
+
 | [**End-to-End Credit Default Prediction (Python + Streamlit)**](https://github.com/SaharBahloul/End-to-End-Credit-Default-Prediction-with-Data-Analytics-and-ML) | Full credit-risk system using the Kaggle Home Credit dataset: EDA, preprocessing, SMOTE, Random Forest, XGBoost, LightGBM, CatBoost, threshold tuning, and a deployed Streamlit scoring app. |
 | [**CarthageCraft (React + MySQL)**](https://github.com/SaharBahloul/carthagecraftissproject)                                                                     | Responsive e-commerce connecting Tunisian artisans to customers. Secure authentication & MySQL backend.                                                                                      |
 | [**StageVermeg (Spring Boot + Angular)**](https://github.com/SaharBahloul/stagevermeg)                                                                           | Regulatory validation (EAR vs Manifest). REST APIs, automated tests, CI/CD → improved data consistency by ~**20%**.                                                                          |
@@ -26,8 +29,7 @@
 
 ---
 
-## 🔬 Currently Working On
-Multimodal Transformer-GAN for ECG Sequence Modeling (2025) — A healthcare AI project focusing on MIT-BIH ECG signals. Includes preprocessing, Transformer-based arrhythmia detection, a GAN for synthetic rare-beat generation, multimodal fusion (signal + annotation text), and a Streamlit/Gradio demo for real-time inference.``
+
 
 ---
 
