@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sahar Bahloul
 
 **AI & Data Science Enthusiast | Software Engineer | Security-curious Builder**  
-📍 Based in Tunis, Tunisia  
+📍 Based in Lyon, France 
 🎓 Engineer’s Degree in **Software Engineering** — SMU / MedTech
 
 ---
