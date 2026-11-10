@@ -96,11 +96,6 @@ Built an end-to-end Machine Learning pipeline to predict credit default risk usi
 ## 🧰 Tech Stack & Skills
 
 ### 🤖 Artificial Intelligence & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Generative AI:** LLMs · RAG · NLP · AI-powered Applications
 
@@ -114,21 +109,9 @@ Built an end-to-end Machine Learning pipeline to predict credit default risk usi
 
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
 `Python` `Java` `JavaScript` `TypeScript` `C` `C++` `SQL`
 
 ### 🌐 Web Development & APIs
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 `React` `Angular` `React Native` `Node.js` `Express.js` `Spring Boot` `FastAPI` `REST APIs` `Streamlit`
 
@@ -141,27 +124,25 @@ Built an end-to-end Machine Learning pipeline to predict credit default risk usi
 
 ### ⚙️ DevOps & Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
 `GitHub Actions` `CI/CD` `JUnit` `Selenium` `UML` `BPMN` `Agile` `Scrum`
 
 ---
 
 ## 🏆 Awards & Achievements
 
-🥇 **Academic Excellence Scholarship (100%)**
-- Awarded a full merit-based scholarship throughout my engineering studies at SMU / MedTech.
+🎓 **Graduated with Outstanding Distinction & Honors (2026)**
+- Earned my Software Engineering degree with **Outstanding Distinction and Jury Congratulations**, recognizing academic excellence and the successful defense of my final-year engineering project.
 
-🎓 **Dean's Honor List**
-- Recognized for academic excellence during my Software Engineering degree.
+🥇 **Academic Excellence Scholarship (100%)**
+- Awarded a full merit-based scholarship throughout my five years of engineering studies at SMU / MedTech.
+
+🌟 **Dean's Honor List**
+- Recognized for outstanding academic performance throughout my Software Engineering studies.
 
 🌍 **Top 4 – Rotary International AI Challenge (2024)**
-- Authored an essay on **Artificial Intelligence Ethics**, ranked among the top four out of more than 20,000 participants.
-- Recognized for exploring the relationship between AI innovation, ethics, and responsible technology.
+- Authored an essay on **Artificial Intelligence Ethics**, ranked among the top 4 out of more than 20,000 participants worldwide.
+- Recognized for exploring AI innovation, ethical responsibility, and the societal impact of emerging technologies.
+
 
 ---
 
