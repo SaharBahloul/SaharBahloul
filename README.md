@@ -88,7 +88,6 @@ Built an end-to-end Machine Learning pipeline to predict credit default risk usi
 |---|---|---|
 | **CarthageCraft** | Responsive e-commerce platform connecting Tunisian artisans with customers. Built with React, secure authentication, and MySQL. | [View Project](https://github.com/SaharBahloul/carthagecraftissproject) |
 | **StageVermeg** | Regulatory file validation system comparing EAR and Manifest files. REST APIs, automated testing, and CI/CD. | [View Project](https://github.com/SaharBahloul/stagevermeg) |
-| **VermegVf** | Modular Spring Boot services with Angular frontend and automated build and deployment pipelines. | [View Project](https://github.com/SaharBahloul/VermegVf) |
 | **BIAT – Customer Segmentation** | Unsupervised Machine Learning using K-Means, DBSCAN, GMM, PCA, and UMAP on financial data. | [View Project](https://github.com/SaharBahloul/FinalVersionStageBiat) |
 | **Graph Project – F1** | C++ graph toolkit featuring BFS, reachability analysis, degree metrics, and adjacency structures. | [View Project](https://github.com/SaharBahloul/graph-project-F1) |
 
