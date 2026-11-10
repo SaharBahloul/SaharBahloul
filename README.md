@@ -171,3 +171,10 @@ I'm always interested in discussing AI projects, engineering challenges, researc
 ---
 
 ⭐ **Building intelligent systems. Solving real-world problems. Turning AI into impact.**
+
+
+## 🟩 My GitHub Contributions
+
+[![Sahar's GitHub Contribution Graph](https://ghchart.rshah.org/2ea44f/SaharBahloul)](https://github.com/SaharBahloul)
+
+
