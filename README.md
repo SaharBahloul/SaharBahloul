@@ -67,7 +67,7 @@ Developed an end-to-end ECG analysis system using the **MIT-BIH Arrhythmia Datas
 
 ### 💳 3. End-to-End Credit Default Prediction
 
-🔗 **[View GitHub Repository](https://github.com/SaharBahloul/End-to-End-Credit-Default-Prediction-with-Data-Analytics-and-ML)**
+🔗 **[View GitHub Repository](https://github.com/SaharBahloul/Credit-Default-Prediction)**
 
 Built an end-to-end Machine Learning pipeline to predict credit default risk using the **Home Credit dataset**.
 
